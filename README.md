@@ -7,6 +7,6 @@ If you want to describe some Data Structure or algorithm feel free to make a PR 
 
 # Pull Request rules:
 1. At least be informative in what is wrong and how to impove it :)
-2. PR with new problems would not be accepted, as for now I will use this repo to store my solutions for problems, which I have solved. In the future repo will become more open.
+2. PR with solved problems would not be accepted, because for now I use this repo to store my solutions for problems, which I have solved. You can make a PR with a problem definition, which I will try to solve in my free time. In the future repo will become more open.
 
 Have a nice day :)
